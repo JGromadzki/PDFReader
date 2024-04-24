@@ -1,4 +1,4 @@
 streamlit
-langchain
-langchain-groq
-python-dotenv
+tabula-py
+io
+pandas
