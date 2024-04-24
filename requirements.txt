@@ -2,7 +2,6 @@ streamlit
 langchain
 langchain-groq
 python-dotenv
-tabula
 tabula-py
 pandas
 BytesIO
