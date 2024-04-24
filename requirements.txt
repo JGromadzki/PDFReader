@@ -1,5 +1,0 @@
-streamlit
-tabula-py
-tabula
-pandas
-io
