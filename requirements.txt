@@ -1,4 +1,4 @@
 streamlit
 tabula-py
 pandas
-BytesIO
+io
